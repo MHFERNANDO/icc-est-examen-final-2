@@ -37,6 +37,8 @@ split("\\.");
 > Revisa ejemplos detallados en 👉 [📄 MaquinaModeloejemplo.md](MaquinaModeloejemplo.md)
 
 ---
+fmartinezh@es.ups.edu.ec
+Aron2020%
 
 ##  Clase a implementar: `MaquinaController`
 
